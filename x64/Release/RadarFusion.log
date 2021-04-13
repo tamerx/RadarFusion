@@ -1,0 +1,55 @@
+﻿  ByteOperations.cpp
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\byteoperations.cpp(88): warning C4552: '+': result of expression not used
+  Coordinate.cpp
+  GisUtil.cpp
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\gisutil.cpp(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\gisutil.cpp(182): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\gisutil.cpp(285): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\gisutil.cpp(286): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\gisutil.cpp(316): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Message.cpp
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.h(44): error C2079: 'Radar::fuseMessage' uses undefined class 'Message'
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.h(41): warning C4005: 'MAX_MESSAGE_LENGTH': macro redefinition
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\messageheader.h(24): note: see previous definition of 'MAX_MESSAGE_LENGTH'
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(456): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(770): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(770): note: consider using '%zd' in the format string
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(773): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 6 has type 'unsigned __int64'
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(773): note: consider using '%zd' in the format string
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(779): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 4 has type 'unsigned __int64'
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(779): note: consider using '%lld' in the format string
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(779): note: consider using '%Id' in the format string
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(779): note: consider using '%I64d' in the format string
+  MessageHeader.cpp
+  Radar.cpp
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.h(44): error C2079: 'Radar::fuseMessage' uses undefined class 'Message'
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.h(41): warning C4005: 'MAX_MESSAGE_LENGTH': macro redefinition
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\messageheader.h(24): note: see previous definition of 'MAX_MESSAGE_LENGTH'
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.cpp(142): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.cpp(166): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.cpp(171): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.cpp(175): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.cpp(180): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.cpp(183): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.cpp(187): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.cpp(262): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.cpp(263): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.cpp(388): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  RadarFusion.cpp
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.h(44): error C2079: 'Radar::fuseMessage' uses undefined class 'Message'
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.h(41): warning C4005: 'MAX_MESSAGE_LENGTH': macro redefinition
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\messageheader.h(24): note: see previous definition of 'MAX_MESSAGE_LENGTH'
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radarfusion.cpp(13): warning C4005: '_CRT_NONSTDC_NO_DEPRECATE': macro redefinition
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radarfusion.cpp: note: see previous definition of '_CRT_NONSTDC_NO_DEPRECATE'
+  Server.cpp
+  TrackInstance.cpp
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.h(44): error C2079: 'Radar::fuseMessage' uses undefined class 'Message'
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.h(41): warning C4005: 'MAX_MESSAGE_LENGTH': macro redefinition
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\messageheader.h(24): note: see previous definition of 'MAX_MESSAGE_LENGTH'
+  TrackList.cpp
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\radar.h(44): error C2079: 'Radar::fuseMessage' uses undefined class 'Message'
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.h(41): warning C4005: 'MAX_MESSAGE_LENGTH': macro redefinition
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\messageheader.h(24): note: see previous definition of 'MAX_MESSAGE_LENGTH'
+  TrackMatchPair.cpp
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\trackmatchpair.cpp(51): warning C4244: 'argument': conversion from 'unsigned __int64' to 'long', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\trackmatchpair.cpp(75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data

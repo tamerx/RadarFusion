@@ -1,0 +1,22 @@
+﻿  Message.cpp
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.h(41): warning C4005: 'MAX_MESSAGE_LENGTH': macro redefinition
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\messageheader.h(24): note: see previous definition of 'MAX_MESSAGE_LENGTH'
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(466): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(399): warning C4101: 'tempS': unreferenced local variable
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(395): warning C4101: 'localTime': unreferenced local variable
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(697): warning C4101: 'recv_header_flag': unreferenced local variable
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(698): warning C4101: 'recv_message_flag': unreferenced local variable
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(696): warning C4101: 'message_length': unreferenced local variable
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(752): warning C4101: 'recv_header_flag': unreferenced local variable
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(753): warning C4101: 'recv_message_flag': unreferenced local variable
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(751): warning C4101: 'message_length': unreferenced local variable
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(788): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(788): note: consider using '%zd' in the format string
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(791): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 6 has type 'unsigned __int64'
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(791): note: consider using '%zd' in the format string
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(797): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 4 has type 'unsigned __int64'
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(797): note: consider using '%lld' in the format string
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(797): note: consider using '%Id' in the format string
+  c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(797): note: consider using '%I64d' in the format string
+c:\users\tamerteknotam\source\repos\radarfusion\radarfusion\message.cpp(995): warning C4101: 'message_length': unreferenced local variable
+  RadarFusion.vcxproj -> C:\Users\TamerTeknotam\source\repos\RadarFusion\x64\Debug\RadarFusion.exe
